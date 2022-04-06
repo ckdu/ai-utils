@@ -1,0 +1,206 @@
+{
+  "guild": {
+    "id": "242374252148424721",
+    "name": "private",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "961035501773656094",
+    "type": "GuildTextChat",
+    "categoryId": "568823727144566808",
+    "category": "Private",
+    "name": "example",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "961035514306256987",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:52:01.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "test",
+      "author": {
+        "id": "157252176350150656",
+        "name": "Aim",
+        "discriminator": "3750",
+        "nickname": "Aim",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157252176350150656/77aad1ebe020f56eabef059d6a3983bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961035532526313522",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:52:06.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello",
+      "author": {
+        "id": "157252176350150656",
+        "name": "Aim",
+        "discriminator": "3750",
+        "nickname": "Aim",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157252176350150656/77aad1ebe020f56eabef059d6a3983bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961035663141109851",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:52:37.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "three ..\nlines,\nmessage .",
+      "author": {
+        "id": "157252176350150656",
+        "name": "Aim",
+        "discriminator": "3750",
+        "nickname": "Aim",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157252176350150656/77aad1ebe020f56eabef059d6a3983bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961035724713504788",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:52:51.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good 🫠",
+      "author": {
+        "id": "157252176350150656",
+        "name": "Aim",
+        "discriminator": "3750",
+        "nickname": "Aim",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157252176350150656/77aad1ebe020f56eabef059d6a3983bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961036451678679091",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:55:45.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "another",
+      "author": {
+        "id": "225421097959555072",
+        "name": "ckdu",
+        "discriminator": "7777",
+        "nickname": "ckdu",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225421097959555072/16977147ebc41d19f101554240e545ca.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961036457768783932",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:55:46.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "user",
+      "author": {
+        "id": "225421097959555072",
+        "name": "ckdu",
+        "discriminator": "7777",
+        "nickname": "ckdu",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225421097959555072/16977147ebc41d19f101554240e545ca.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961036475359694898",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:55:50.92+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool",
+      "author": {
+        "id": "157252176350150656",
+        "name": "Aim",
+        "discriminator": "3750",
+        "nickname": "Aim",
+        "color": "#843DA4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/157252176350150656/77aad1ebe020f56eabef059d6a3983bd.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961036483521835078",
+      "type": "Default",
+      "timestamp": "2022-04-05T22:55:52.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "225421097959555072",
+        "name": "ckdu",
+        "discriminator": "7777",
+        "nickname": "ckdu",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225421097959555072/16977147ebc41d19f101554240e545ca.png?size=128"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}
