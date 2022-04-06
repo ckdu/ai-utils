@@ -29,8 +29,8 @@ if oneOutput:
     npMessages = np.array(messagesPerId)
     hkl.dump(npMessages, "output.hkl", mode='w', compression='gzip')
     
-    data = hkl.load("output.hkl")
-    print(data)
+    #data = hkl.load("output.hkl")
+    #print(data)
 
 else:
     for id, messages in messagesPerId.items():
@@ -39,5 +39,5 @@ else:
         
         hkl.dump(npMessages, fileName, mode='w', compression='gzip')
         
-        data = hkl.load(fileName)
-        print(data)
+        #data = hkl.load(fileName)
+        #print(data)
